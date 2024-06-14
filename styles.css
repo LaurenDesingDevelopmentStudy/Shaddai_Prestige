@@ -1499,16 +1499,7 @@
     #MEDIA QUERIES
   \*-----------------------------------*/
   
-  @media (min-width: 320px) {
-    .menu-card img {
-      width: 100px;
-      height: 100px;
-    }
 
-    .profile .img{
-      width: 200px;
-    }
-  }
 
 
   /**
